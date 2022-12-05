@@ -10,6 +10,6 @@
 
 5. 'cd clgen-0.4.1' and run 'make'.
 
-6. Replace requirements.txt and Makefile.txt with the versions in the home directory.
+6. Replace 'requirements.txt' and 'Makefile' with the versions in the home directory.
 
 7. Run 'make' again.
