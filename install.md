@@ -1,6 +1,6 @@
 # CLgen Install Guide
 
-1. Install Ubuntu 16.04 through WSL. Since Ubuntu 16.04 is EOL, it can no longer be installed through the Microsoft Store. [Here](https://gist.github.com/xynova/87beae35688476efb2ee290d3926f5bb) is a quick tutorial on how to install it.
+1. Install Ubuntu 16.04 through WSL. Since Ubuntu 16.04 is EOL, it can no longer be installed through the Microsoft Store. [Here](https://gist.github.com/xynova/87beae35688476efb2ee290d3926f5bb) is a quick tutorial on how to install it. [Here] (https://endjin.com/blog/2021/11/setting-up-multiple-wsl-distribution-instances) is an alternative method if you already have one version of wsl installed.
 
 2. Run install-deps.sh.
 
