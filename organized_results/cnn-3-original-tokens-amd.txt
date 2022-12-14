@@ -1,0 +1,100 @@
+510/510 [==============================] - 9s 17ms/step - loss: 0.7627 - dense_6_loss: 0.6258 - dense_4_loss: 0.6845 - dense_6_acc: 0.6549 - dense_4_acc: 0.6000
+Epoch 2/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.6557 - dense_6_loss: 0.5203 - dense_4_loss: 0.6770 - dense_6_acc: 0.7667 - dense_4_acc: 0.6000
+Epoch 3/50
+510/510 [==============================] - 6s 11ms/step - loss: 0.5960 - dense_6_loss: 0.4616 - dense_4_loss: 0.6720 - dense_6_acc: 0.7922 - dense_4_acc: 0.6000
+Epoch 4/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.5507 - dense_6_loss: 0.4168 - dense_4_loss: 0.6694 - dense_6_acc: 0.8275 - dense_4_acc: 0.6000
+Epoch 5/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.5177 - dense_6_loss: 0.3841 - dense_4_loss: 0.6682 - dense_6_acc: 0.8451 - dense_4_acc: 0.6000
+Epoch 6/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.4895 - dense_6_loss: 0.3561 - dense_4_loss: 0.6670 - dense_6_acc: 0.8529 - dense_4_acc: 0.6000
+Epoch 7/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.4597 - dense_6_loss: 0.3265 - dense_4_loss: 0.6657 - dense_6_acc: 0.8569 - dense_4_acc: 0.6000
+Epoch 8/50
+510/510 [==============================] - 7s 13ms/step - loss: 0.4510 - dense_6_loss: 0.3181 - dense_4_loss: 0.6647 - dense_6_acc: 0.8412 - dense_4_acc: 0.6000
+Epoch 9/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.4267 - dense_6_loss: 0.2942 - dense_4_loss: 0.6628 - dense_6_acc: 0.8706 - dense_4_acc: 0.6000
+Epoch 10/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.4252 - dense_6_loss: 0.2929 - dense_4_loss: 0.6615 - dense_6_acc: 0.8647 - dense_4_acc: 0.6000
+Epoch 11/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.4145 - dense_6_loss: 0.2823 - dense_4_loss: 0.6608 - dense_6_acc: 0.8706 - dense_4_acc: 0.6000
+Epoch 12/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3914 - dense_6_loss: 0.2597 - dense_4_loss: 0.6586 - dense_6_acc: 0.8863 - dense_4_acc: 0.6000
+Epoch 13/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3979 - dense_6_loss: 0.2665 - dense_4_loss: 0.6570 - dense_6_acc: 0.8725 - dense_4_acc: 0.6000
+Epoch 14/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3975 - dense_6_loss: 0.2663 - dense_4_loss: 0.6560 - dense_6_acc: 0.8667 - dense_4_acc: 0.6000
+Epoch 15/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3732 - dense_6_loss: 0.2424 - dense_4_loss: 0.6540 - dense_6_acc: 0.8902 - dense_4_acc: 0.6000
+Epoch 16/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3664 - dense_6_loss: 0.2360 - dense_4_loss: 0.6517 - dense_6_acc: 0.8922 - dense_4_acc: 0.6000
+Epoch 17/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3539 - dense_6_loss: 0.2242 - dense_4_loss: 0.6484 - dense_6_acc: 0.9000 - dense_4_acc: 0.6000
+Epoch 18/50
+510/510 [==============================] - 6s 12ms/step - loss: 0.3557 - dense_6_loss: 0.2263 - dense_4_loss: 0.6471 - dense_6_acc: 0.8843 - dense_4_acc: 0.6000
+Epoch 19/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3608 - dense_6_loss: 0.2319 - dense_4_loss: 0.6446 - dense_6_acc: 0.8922 - dense_4_acc: 0.6000
+Epoch 20/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3378 - dense_6_loss: 0.2096 - dense_4_loss: 0.6410 - dense_6_acc: 0.9059 - dense_4_acc: 0.6000
+Epoch 21/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3431 - dense_6_loss: 0.2155 - dense_4_loss: 0.6380 - dense_6_acc: 0.9000 - dense_4_acc: 0.6000
+Epoch 22/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3335 - dense_6_loss: 0.2066 - dense_4_loss: 0.6346 - dense_6_acc: 0.9039 - dense_4_acc: 0.6000
+Epoch 23/50
+510/510 [==============================] - 6s 12ms/step - loss: 0.3179 - dense_6_loss: 0.1920 - dense_4_loss: 0.6297 - dense_6_acc: 0.9294 - dense_4_acc: 0.6000
+Epoch 24/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.3199 - dense_6_loss: 0.1947 - dense_4_loss: 0.6260 - dense_6_acc: 0.9098 - dense_4_acc: 0.6098
+Epoch 25/50
+510/510 [==============================] - 6s 12ms/step - loss: 0.3026 - dense_6_loss: 0.1783 - dense_4_loss: 0.6214 - dense_6_acc: 0.9196 - dense_4_acc: 0.6098
+Epoch 26/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.3032 - dense_6_loss: 0.1800 - dense_4_loss: 0.6159 - dense_6_acc: 0.9294 - dense_4_acc: 0.6098
+Epoch 27/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.3052 - dense_6_loss: 0.1828 - dense_4_loss: 0.6120 - dense_6_acc: 0.9078 - dense_4_acc: 0.6490
+Epoch 28/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2952 - dense_6_loss: 0.1744 - dense_4_loss: 0.6038 - dense_6_acc: 0.9216 - dense_4_acc: 0.6765
+Epoch 29/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.2876 - dense_6_loss: 0.1677 - dense_4_loss: 0.5993 - dense_6_acc: 0.9255 - dense_4_acc: 0.6333
+Epoch 30/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2794 - dense_6_loss: 0.1613 - dense_4_loss: 0.5908 - dense_6_acc: 0.9333 - dense_4_acc: 0.7098
+Epoch 31/50
+510/510 [==============================] - 6s 11ms/step - loss: 0.2865 - dense_6_loss: 0.1694 - dense_4_loss: 0.5855 - dense_6_acc: 0.9314 - dense_4_acc: 0.7137
+Epoch 32/50
+510/510 [==============================] - 9s 18ms/step - loss: 0.2818 - dense_6_loss: 0.1664 - dense_4_loss: 0.5772 - dense_6_acc: 0.9176 - dense_4_acc: 0.7490
+Epoch 33/50
+510/510 [==============================] - 6s 13ms/step - loss: 0.2704 - dense_6_loss: 0.1561 - dense_4_loss: 0.5713 - dense_6_acc: 0.9314 - dense_4_acc: 0.7039
+Epoch 34/50
+510/510 [==============================] - 6s 11ms/step - loss: 0.2922 - dense_6_loss: 0.1792 - dense_4_loss: 0.5651 - dense_6_acc: 0.9176 - dense_4_acc: 0.7471
+Epoch 35/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2585 - dense_6_loss: 0.1468 - dense_4_loss: 0.5586 - dense_6_acc: 0.9471 - dense_4_acc: 0.7216
+Epoch 36/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.2550 - dense_6_loss: 0.1452 - dense_4_loss: 0.5490 - dense_6_acc: 0.9412 - dense_4_acc: 0.7706
+Epoch 37/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.2430 - dense_6_loss: 0.1346 - dense_4_loss: 0.5424 - dense_6_acc: 0.9490 - dense_4_acc: 0.7451
+Epoch 38/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2547 - dense_6_loss: 0.1471 - dense_4_loss: 0.5384 - dense_6_acc: 0.9471 - dense_4_acc: 0.7882
+Epoch 39/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.2441 - dense_6_loss: 0.1375 - dense_4_loss: 0.5329 - dense_6_acc: 0.9549 - dense_4_acc: 0.7647
+Epoch 40/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.2431 - dense_6_loss: 0.1385 - dense_4_loss: 0.5229 - dense_6_acc: 0.9451 - dense_4_acc: 0.7471
+Epoch 41/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2331 - dense_6_loss: 0.1291 - dense_4_loss: 0.5201 - dense_6_acc: 0.9569 - dense_4_acc: 0.7863
+Epoch 42/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2332 - dense_6_loss: 0.1309 - dense_4_loss: 0.5111 - dense_6_acc: 0.9588 - dense_4_acc: 0.7569
+Epoch 43/50
+510/510 [==============================] - 5s 11ms/step - loss: 0.2279 - dense_6_loss: 0.1289 - dense_4_loss: 0.4947 - dense_6_acc: 0.9451 - dense_4_acc: 0.8255
+Epoch 44/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2237 - dense_6_loss: 0.1242 - dense_4_loss: 0.4973 - dense_6_acc: 0.9490 - dense_4_acc: 0.7784
+Epoch 45/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2123 - dense_6_loss: 0.1154 - dense_4_loss: 0.4842 - dense_6_acc: 0.9510 - dense_4_acc: 0.7961
+Epoch 46/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2309 - dense_6_loss: 0.1338 - dense_4_loss: 0.4857 - dense_6_acc: 0.9412 - dense_4_acc: 0.7745
+Epoch 47/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2260 - dense_6_loss: 0.1260 - dense_4_loss: 0.5002 - dense_6_acc: 0.9471 - dense_4_acc: 0.7588
+Epoch 48/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2183 - dense_6_loss: 0.1208 - dense_4_loss: 0.4879 - dense_6_acc: 0.9431 - dense_4_acc: 0.7686
+Epoch 49/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2344 - dense_6_loss: 0.1389 - dense_4_loss: 0.4778 - dense_6_acc: 0.9392 - dense_4_acc: 0.8020
+Epoch 50/50
+510/510 [==============================] - 5s 10ms/step - loss: 0.2149 - dense_6_loss: 0.1194 - dense_4_loss: 0.4778 - dense_6_acc: 0.9451 - dense_4_acc: 0.7549
+170/170 [==============================] - 1s 6ms/step
